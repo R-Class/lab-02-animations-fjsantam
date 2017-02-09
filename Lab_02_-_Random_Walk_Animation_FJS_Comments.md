@@ -6,7 +6,6 @@ February 2, 2017
 Load the necessary packages and dataset.
 
 ``` r
-setwd( "C:/Users/franc/Documents/GitHub/DDM-II/lab-02-animations-fjsantam/Animations"  )
 library( animation )
 ```
 
@@ -32,4 +31,4 @@ ani.height = 400
 )
 ```
 
-![](C:/Users/franc/Documents/Graduate%20School/PAI%20690%20Independent%20Study_DDM%20II/Labs/gifs/Random_Walk_Animation.gif)
+![](C:/Users/franc/Documents/GitHub/DDM-II/lab-02-animations-fjsantam/Random_Walk_Animation.gif)

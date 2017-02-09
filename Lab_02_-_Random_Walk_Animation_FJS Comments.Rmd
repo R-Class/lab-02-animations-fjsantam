@@ -8,7 +8,6 @@ output: github_document
 
 Load the necessary packages and dataset.
 ```{r, warning=F, message = F }
-setwd( "C:/Users/franc/Documents/GitHub/DDM-II/lab-02-animations-fjsantam/Animations"  )
 library( animation )
 ```
 
@@ -33,4 +32,4 @@ ani.width = 800,
 ani.height = 400
 )
 ```
-![](C:/Users/franc/Documents/Graduate School/PAI 690 Independent Study_DDM II/Labs/gifs/Random_Walk_Animation.gif)
+![](C:/Users/franc/Documents/GitHub/DDM-II/lab-02-animations-fjsantam/Random_Walk_Animation.gif)
