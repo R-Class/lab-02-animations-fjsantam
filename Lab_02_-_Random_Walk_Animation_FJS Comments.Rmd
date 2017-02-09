@@ -8,10 +8,11 @@ output: github_document
 
 Load the necessary packages and dataset.
 ```{r, warning=F, message = F }
+setwd( "C:/Users/franc/Documents/GitHub/DDM-II/lab-02-animations-fjsantam/Animations"  )
 library( animation )
 ```
 
-####Animation
+#### Animation
 ```{r, warning=F, message = F, fig.show='animate', results='hide'}
 
 saveGIF({

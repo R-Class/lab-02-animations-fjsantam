@@ -6,6 +6,7 @@ February 2, 2017
 Load the necessary packages and dataset.
 
 ``` r
+setwd( "C:/Users/franc/Documents/GitHub/DDM-II/lab-02-animations-fjsantam/Animations"  )
 library( animation )
 ```
 
